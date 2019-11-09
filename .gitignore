@@ -1,0 +1,5 @@
+*__init__.py
+*.sqlite3
+*wsgi.py
+*.pyc
+.gitignore
